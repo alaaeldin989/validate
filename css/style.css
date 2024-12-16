@@ -1,0 +1,13 @@
+body {
+  background-color: #f6f8ff;
+}
+
+.input i {
+  margin-top: 20px;
+  margin-left: 10px;
+  color: blue;
+}
+
+.input input {
+  padding: 30px 35px;
+}
